@@ -27,4 +27,5 @@ A command-line tool that makes it easy to manage Bukkit (CraftBukkit, Spigot) pl
 
 ## How to use ##
 
-On Windows, copy the contents of `dist/` somewhere onto your `PATH`
+On Windows, copy the contents of `dist/` somewhere onto your `PATH`.
+On Linux/Mac, add `alias bpm=./path/to/bpm/dist/bpm` to your respective `.bashrc`, `.zshrc`, etc.
